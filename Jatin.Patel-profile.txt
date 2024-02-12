@@ -1,0 +1,6 @@
+name : jatin patel
+adress : G-206 sundarvan flat, nr nav-nirman highschool, ranip, ahmedabad-382480
+sex:male
+birthdate: 26/11/1987
+Qualification:ssc-88.71%           hsc-80%
+b.pharm with first class
